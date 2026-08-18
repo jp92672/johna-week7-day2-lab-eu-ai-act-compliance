@@ -1,6 +1,6 @@
-# Consulting Response - John Adams
+# Lab | Week 7 | Day 2 | Classify your product - Client Briefs
 
-Four client briefs. Review each and infer the likely EU AI Act category.
+## Client briefs (provided by JohnA)
 
 ### Case 1
 
