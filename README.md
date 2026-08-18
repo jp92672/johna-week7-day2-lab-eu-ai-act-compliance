@@ -10,8 +10,6 @@ This repository contains everything you need for this lab.
 
 - [`instructions.md`](./instructions.md) — the lab instructions
 - [`rubric.md`](./rubric.md) — how your submission is graded; this is what the AI reviewer checks your PR against
-- [`Course Files/Lab_Classify your product.md`](./Course%20Files/Lab_Classify%20your%20product.md) — original lab handout, source for `instructions.md`
-- [`Course Files/session-memory_prompt.md`](./Course%20Files/session-memory_prompt.md) — course session-memory reference material, not part of the graded deliverable
 
 ### My submission (John Adams)
 
