@@ -1,0 +1,6 @@
+.env
+.env.*
+!.env.example
+Course Files/
+Example Files/
+.DS_Store
